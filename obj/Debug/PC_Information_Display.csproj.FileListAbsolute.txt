@@ -1,0 +1,30 @@
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display\bin\Debug\PC_Information_Display.exe.config
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display\bin\Debug\PC_Information_Display.exe
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display\bin\Debug\PC_Information_Display.pdb
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display\obj\Debug\PC_Information_Display.csproj.AssemblyReference.cache
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display\obj\Debug\PC_Information_Display.Form1.resources
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display\obj\Debug\PC_Information_Display.Properties.Resources.resources
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display\obj\Debug\PC_Information_Display.csproj.GenerateResource.cache
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display\obj\Debug\PC_Information_Display.csproj.CoreCompileInputs.cache
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display\obj\Debug\PC_Information_Display.exe
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display\obj\Debug\PC_Information_Display.pdb
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display (3)\PC_Information_Display\bin\Debug\PC_Information_Display.exe.config
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display (3)\PC_Information_Display\bin\Debug\PC_Information_Display.exe
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display (3)\PC_Information_Display\bin\Debug\PC_Information_Display.pdb
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display (3)\PC_Information_Display\obj\Debug\PC_Information_Display.csproj.AssemblyReference.cache
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display (3)\PC_Information_Display\obj\Debug\PC_Information_Display.Form1.resources
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display (3)\PC_Information_Display\obj\Debug\PC_Information_Display.Properties.Resources.resources
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display (3)\PC_Information_Display\obj\Debug\PC_Information_Display.csproj.GenerateResource.cache
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display (3)\PC_Information_Display\obj\Debug\PC_Information_Display.csproj.CoreCompileInputs.cache
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display (3)\PC_Information_Display\obj\Debug\PC_Information_Display.exe
+C:\Users\dipu saha\Desktop\VS 2019\PC_Information_Display (3)\PC_Information_Display\obj\Debug\PC_Information_Display.pdb
+D:\Ultra x office\Project 1 final\updated\PC_Information_Display\bin\Debug\PC_Information_Display.exe.config
+D:\Ultra x office\Project 1 final\updated\PC_Information_Display\bin\Debug\PC_Information_Display.exe
+D:\Ultra x office\Project 1 final\updated\PC_Information_Display\bin\Debug\PC_Information_Display.pdb
+D:\Ultra x office\Project 1 final\updated\PC_Information_Display\obj\Debug\PC_Information_Display.csproj.AssemblyReference.cache
+D:\Ultra x office\Project 1 final\updated\PC_Information_Display\obj\Debug\PC_Information_Display.Form1.resources
+D:\Ultra x office\Project 1 final\updated\PC_Information_Display\obj\Debug\PC_Information_Display.Properties.Resources.resources
+D:\Ultra x office\Project 1 final\updated\PC_Information_Display\obj\Debug\PC_Information_Display.csproj.GenerateResource.cache
+D:\Ultra x office\Project 1 final\updated\PC_Information_Display\obj\Debug\PC_Information_Display.csproj.CoreCompileInputs.cache
+D:\Ultra x office\Project 1 final\updated\PC_Information_Display\obj\Debug\PC_Information_Display.exe
+D:\Ultra x office\Project 1 final\updated\PC_Information_Display\obj\Debug\PC_Information_Display.pdb
